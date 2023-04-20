@@ -7,3 +7,5 @@ I am Domingos.
 - 📫 How to reach me: domingosdeeulariadumba@gmail.com
 
 https://www.microsoft.com/en-us/sql-server
+
+![image](https://user-images.githubusercontent.com/110714056/233348464-33e2ec82-0d7f-481a-893b-9efaa1802d64.png)
