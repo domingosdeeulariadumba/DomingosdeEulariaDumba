@@ -1,5 +1,5 @@
 Hi there 👋🏿
-I am Domingos.
+I Am Domingos.
 
 ![200w](https://user-images.githubusercontent.com/110714056/233352885-5f58aa19-b065-425e-b878-13ea95c9ec29.gif)
 
