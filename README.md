@@ -11,8 +11,8 @@ I Am Domingos, from Luanda!🇦🇴
 -                    lıllılı.ıllı.ılılıılıı.lllııılı.
  
            Now Playing [Lupe Fiasco: Haile Selassie (feat. Nikki Jean)]
-              0:34 ———♡——— 4:49
-             ◁◁          ▐  ▌          ▷▷
+                           0:34 ———♡——— 4:49
+                     ◁◁          ▐  ▌          ▷▷
       
 <h3 align="left">Connect with me:</h3>
 <p align="left">
