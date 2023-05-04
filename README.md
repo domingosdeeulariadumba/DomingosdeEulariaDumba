@@ -3,7 +3,7 @@ I Am Domingos, from Luanda!🇦🇴
 
 ![200w](https://user-images.githubusercontent.com/110714056/233352885-5f58aa19-b065-425e-b878-13ea95c9ec29.gif)
 
-- 🔭 I’m currently teaching code to kids in codum! (an initiative co-founded by me) 
+- 🔭 I’m currently teaching code to kids in codum! (a social initiative co-founded by me) 
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with Data Analysts, and for a job in the field.
 - 📫 Reach me here: **domingosdeeulariadumba@gmail.com**
