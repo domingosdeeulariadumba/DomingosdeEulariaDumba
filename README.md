@@ -1,7 +1,7 @@
 Hi there 👋🏿
 I Am Domingos, from Luanda!🇦🇴
 
-![200w](https://user-images.githubusercontent.com/110714056/233352885-5f58aa19-b065-425e-b878-13ea95c9ec29.gif)
+![Design sem nome](https://user-images.githubusercontent.com/110714056/236336102-71f81467-0e48-4e18-beb4-4ddf9d54ef6f.gif)
 
 - 🔭 I’m currently teaching code to kids in codum! (a social initiative co-founded by me) 
 - 🌱 I’m currently learning Python
