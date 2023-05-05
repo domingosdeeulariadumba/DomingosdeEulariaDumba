@@ -6,7 +6,7 @@ I Am Domingos, from Luanda!🇦🇴
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with Data Analysts, and for a job in the field.
 - 📫 Reach me here: **domingosdeeulariadumba@gmail.com**
-- ⚡ Fun fact: I hardly go a day without listening to musics I like. Especially this one👇🏿
+- ⚡ It's funny, but I hardly go a day without listening to musics I like. Especially this one:
 
                         lıllılı.ıllı.ılılıılıı.lllııılı.
  
