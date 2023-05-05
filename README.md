@@ -7,8 +7,9 @@ I Am Domingos, from Luanda!🇦🇴
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with Data Analysts, and for a job in the field.
 - 📫 Reach me here: **domingosdeeulariadumba@gmail.com**
-- ⚡ Fun fact: I think I am funny
--                    lıllılı.ıllı.ılılıılıı.lllııılı.
+- ⚡ Fun fact: I hardly go a day without listening to musics I like. Especially this one👇🏿
+
+                        lıllılı.ıllı.ılılıılıı.lllııılı.
  
            Now Playing [Lupe Fiasco: Haile Selassie (feat. Nikki Jean)]
                            0:34 ———♡——— 4:49
