@@ -1,5 +1,5 @@
 Hi there 👋🏿
-I am Domingos, from Luanda! ![Angola Flag](https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg)
+I am Domingos, from Luanda!
 
 ![Design sem nome](https://user-images.githubusercontent.com/110714056/236336102-71f81467-0e48-4e18-beb4-4ddf9d54ef6f.gif)
 
