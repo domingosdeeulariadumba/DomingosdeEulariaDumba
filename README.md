@@ -1,3 +1,5 @@
+![Design sem nome](https://user-images.githubusercontent.com/110714056/236336102-71f81467-0e48-4e18-beb4-4ddf9d54ef6f.gif)
+
 # 👋🏿 Hi there, I am Domingos from Luanda! 🇦🇴
 
 - 🌱 I’m currently learning Python.
@@ -16,6 +18,3 @@
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/domingosdeeulariadumba)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=domingosdeeulariadumba&color=brightgreen)
-
-
-
