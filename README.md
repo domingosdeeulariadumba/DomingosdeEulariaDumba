@@ -2,7 +2,7 @@
 I'm **Domingos**, from **Luanda**!  
 
 <div style="display: flex; flex-wrap: nowrap; align-items: center;">
-  <img src="https://user-images.githubusercontent.com/110714056/236336102-71f81467-0e48-4e18-beb4-4ddf9d54ef6f.gif" height="130" width="600" style="border-radius: 12px; margin-right: 20px;">
+  <img src="https://user-images.githubusercontent.com/110714056/236336102-71f81467-0e48-4e18-beb4-4ddf9d54ef6f.gif" height="230" width="600" style="border-radius: 12px; margin-right: 20px;">
   
   <div style="max-width: 550px; flex: 1;">
     -🌱 I'm currently learning Python and working on <a href="https://imdbrecommender.onrender.com/" target="_blank"><strong>IMDb Recommender</strong></a>.
