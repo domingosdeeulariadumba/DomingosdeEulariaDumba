@@ -16,13 +16,13 @@ I'm **Domingos**, from **Luanda**!
 
 ## 🛠️ Tech Stack:
 
-- Python ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)  
-- SQL/MySQL ![SQL/MySQL](https://i.postimg.cc/9fgTkFd3/sqlserver-icon.png)  
-- Power BI ![Power BI](https://i.postimg.cc/GmQvkj9m/powerbi-icon.png)  
-- IBM Cognos ![IBM Cognos](https://i.postimg.cc/SNc6K4h8/ibmcognos-icon.png)  
-- Looker Studio ![Looker Studio](https://i.postimg.cc/0yxpM4k4/looker-icon.png)  
-- Redis ![Redis](https://i.postimg.cc/25ShTBBF/redis-icon.png)  
-- Scala ![Scala](https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg)  
+- Python ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg =30x30)  
+- SQL/MySQL ![SQL/MySQL](https://i.postimg.cc/9fgTkFd3/sqlserver-icon.png =30x30)  
+- Power BI ![Power BI](https://i.postimg.cc/GmQvkj9m/powerbi-icon.png =30x30)  
+- IBM Cognos ![IBM Cognos](https://i.postimg.cc/SNc6K4h8/ibmcognos-icon.png =30x30)  
+- Looker Studio ![Looker Studio](https://i.postimg.cc/0yxpM4k4/looker-icon.png =30x30)  
+- Redis ![Redis](https://i.postimg.cc/25ShTBBF/redis-icon.png =30x30)  
+- Scala ![Scala](https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg =30x30)  
 
 ---
 
@@ -31,6 +31,13 @@ I'm **Domingos**, from **Luanda**!
 
 ## 📈 Contribution Activity:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+
+## 💻 Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## ⏳ Wakatime Stats:
+![Wakatime Badge](https://wakatime.com/badge/user/yourwakatimeusername.svg)
+e=radical)
 
 ## 💻 Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
