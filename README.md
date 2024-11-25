@@ -2,9 +2,9 @@
 I'm **Domingos**, from **Luanda**!  
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
-  <img src="https://user-images.githubusercontent.com/110714056/236336102-71f81467-0e48-4e18-beb4-4ddf9d54ef6f.gif" height="130" width="600" style="border-radius: 12px; margin-right: 20px;">
+  <img src="https://user-images.githubusercontent.com/110714056/236336102-71f81467-0e48-4e18-beb4-4ddf9d54ef6f.gif" height="130" width="130" style="border-radius: 12px; margin-right: 20px;">
   
-  <div>
+  <div style="max-width: 600px;">
     -🌱 I'm currently learning Python and working on <a href="https://imdbrecommender.onrender.com/" target="_blank"><strong>IMDb Recommender</strong></a>.
       <br>
     - 👯  I'm looking to collaborate with professionals in the data analytics and tech fields.
