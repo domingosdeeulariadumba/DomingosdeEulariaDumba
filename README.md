@@ -47,4 +47,16 @@ I'm **Domingos**, from **Luanda**!
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://i.postimg.cc/GmQvkj9m/powerbi-icon.png" alt="Power BI" width="40" height="40"/>
   </a>
-  <a href="https://www.ibm.com/products/cognos-analytics" target="_blank" rel=
+  <a href="https://www.ibm.com/products/cognos-analytics" target="_blank" rel="noreferrer">
+    <img src="https://i.postimg.cc/SNc6K4h8/ibmcognos-icon.png" alt="IBM Cognos" width="40" height="30"/>
+  </a>
+  <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://i.postimg.cc/0yxpM4k4/looker-icon.png" alt="Looker Studio" width="40" height="40"/>
+  </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://i.postimg.cc/25ShTBBF/redis-icon.png" alt="Redis" width="40" height="40"/>
+  </a>
+  <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" width="40" height="40"/>
+  </a>
+</p>
